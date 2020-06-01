@@ -1,0 +1,1 @@
+[Link](http://philosofool.github.io) to my GitHub page. As of 1 June, 2020, it's 404. But I might actually update it someday. And then forget to update this. Maybe I will make an issue for the this so I at least have an open thing happening in my profile to remind me to fix this problem. That would be good practice dealing with a known issue, right?
