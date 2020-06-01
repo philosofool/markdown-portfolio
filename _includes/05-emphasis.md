@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Someone just told me to write out my _awesome_ attributes. One of them is that I don't like when __people shout__, either outloud or in text. Another is that I'm actually kinda loud and try to be _understanding_ when people point out that I'm sort of shouting. I am going ot have to create an issue for revising this because it's just practice in public.
